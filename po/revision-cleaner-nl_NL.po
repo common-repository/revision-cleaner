@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revision Cleaner v2.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-17 20:08:40+0000\n"
+"Last-Translator: guy <guy@eegs.be>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: revision-cleaner.php:134
+#@ revision-cleaner
+msgid "You might install an duplicate cleaner"
+msgstr "U kan misschien ook een duplicaat cleaner installeren"
+
+#: revision-cleaner.php:135
+#@ revision-cleaner
+msgid "Cleaned negative numeric, that's impossible"
+msgstr "Onmogelijk, het resultaat van de gewiste revisie's is negatief."
+
+#: revision-cleaner.php:136
+#@ revision-cleaner
+msgid "Is the plugin's code been modified?"
+msgstr "Is deze plugin-code aangepast?"
+
+#: revision-cleaner.php:137
+#@ revision-cleaner
+msgid "You don't has authority to change this profile"
+msgstr "U heeft geen bevoegdheid om dit profiel te wijzigen."
+
+#: revision-cleaner.php:138
+#@ revision-cleaner
+msgid "No Neo is found"
+msgstr "Er is geen Neo gevonden"
+
+#: revision-cleaner.php:139
+#@ revision-cleaner
+msgid "Data is missing"
+msgstr "Er ontbreekt data"
+
+#: revision-cleaner.php:140
+#@ revision-cleaner
+msgid "Oops...No administrator found. Call previous Administrator for help"
+msgstr "Oops...Er is geen administrator gevonden. Vraag de vorige administrator om hulp."
+
+#: revision-cleaner.php:157
+#@ revision-cleaner
+msgid "No plugin found"
+msgstr "Geen plugin gevonden"
+
+#: revision-cleaner.php:163
+#, php-format
+#@ revision-cleaner
+msgid "copy this message and post on %s "
+msgstr "kopieer dit bericht op %s"
+
+#: revision-cleaner.php:207
+#@ revision-cleaner
+msgid "Revision Cleaner CRASHED!"
+msgstr "Revision Cleaner is gecrasht!"
+
+#: revision-cleaner.php:428
+#@ default
+msgid "Success!"
+msgstr ""
+
+#: revision-cleaner.php:446
+#@ default
+msgid "Save failed"
+msgstr ""
+
+#: revision-cleaner.php:453
+#, php-format
+#@ default
+msgid "USER-ID:%s can't be Neo"
+msgstr ""
+
+#: revision-cleaner.php:491
+#: revision-cleaner.php:604
+#: revision-cleaner.php:709
+#@ revision-cleaner
+msgid "Revision Cleaner"
+msgstr "Revision Cleaner"
+
+#: revision-cleaner.php:507
+#@ revision-cleaner
+msgid "Global Settings"
+msgstr "Algemene Instellingen"
+
+#: revision-cleaner.php:510
+#@ revision-cleaner
+msgid "Multi-Users"
+msgstr "Multi-Gebruiker"
+
+#: revision-cleaner.php:512
+#@ revision-cleaner
+msgid "Allow each user set their own interval"
+msgstr "Sta iedere gebruiker toe zijn eigen interval te kiezen"
+
+#: revision-cleaner.php:517
+#, php-format
+#@ revision-cleaner
+msgid "As Multi-users on, You can set your interval at <a href='%s'>your profile</a>"
+msgstr "Indien Multi-gebruiker opstaat kan u uw persoonlijke interval kiezen in uw <a href='%s'>profiel</a>"
+
+#: revision-cleaner.php:520
+#@ revision-cleaner
+msgid "Neo"
+msgstr "Neo"
+
+#: revision-cleaner.php:531
+#@ revision-cleaner
+msgid "Neo's setting will be treat as Global Setting while Multi-user is off "
+msgstr "Neo's instellingen worden als globale instelling gebruikt indien de multi-gebruiken optie is uitgeschakeld."
+
+#: revision-cleaner.php:536
+#@ revision-cleaner
+msgid "Statistic"
+msgstr "Statistieken"
+
+#: revision-cleaner.php:539
+#: revision-cleaner.php:551
+#@ revision-cleaner
+msgid "Extant Revision"
+msgstr "Bestaande revisie's"
+
+#: revision-cleaner.php:540
+#@ revision-cleaner
+msgid "Cleaned Revision"
+msgstr "Gewiste revisie's"
+
+#: revision-cleaner.php:544
+#@ revision-cleaner
+msgid "Users Setting Overview"
+msgstr "Overzicht van de gebruikersinstellingen"
+
+#: revision-cleaner.php:550
+#@ default
+msgid "Username"
+msgstr ""
+
+#: revision-cleaner.php:552
+#@ revision-cleaner
+msgid "Interval"
+msgstr "Interval"
+
+#: revision-cleaner.php:553
+#@ revision-cleaner
+msgid "Keep draft's"
+msgstr "Houdt concepten"
+
+#: revision-cleaner.php:598
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: revision-cleaner.php:710
+#@ default
+msgid "Error:No Javascript support, can't show simple setting"
+msgstr ""
+
+#: revision-cleaner.php:713
+#: revision-cleaner.php:730
+#@ revision-cleaner
+msgid "Time Settings"
+msgstr "Tijdsinstellingen"
+
+#: revision-cleaner.php:713
+#: revision-cleaner.php:732
+#@ revision-cleaner
+msgid "Revisions Last"
+msgstr "Revisie's blijven"
+
+#: revision-cleaner.php:714
+#@ revision-cleaner
+msgid "day"
+msgstr "dag(en)"
+
+#: revision-cleaner.php:715
+#@ revision-cleaner
+msgid "hour"
+msgstr "u(u)r(en)"
+
+#: revision-cleaner.php:717
+#@ revision-cleaner
+msgid "Advanced Options"
+msgstr "Geavanceerde optie's"
+
+#: revision-cleaner.php:733
+#@ revision-cleaner
+msgid "Seconds"
+msgstr "Seconden"
+
+#: revision-cleaner.php:736
+#@ revision-cleaner
+msgid "Misc"
+msgstr "Diverse"
+
+#: revision-cleaner.php:737
+#@ revision-cleaner
+msgid "Always keep draft's revisions"
+msgstr "Behoud altijd de concept-revisie's"
+

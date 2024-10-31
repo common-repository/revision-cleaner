@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: abv\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-01 21:54+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mengzhuo <mengzhuo1203@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/meng/revision-cleaner\n"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:102
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:67
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:77
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:78
+msgid "No! Avada Kedavra!"
+msgstr "不！阿瓦达索命！"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:103
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:68
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:78
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:79
+msgid "Sir! Some dead revisions had became zombies!"
+msgstr "长官！有些死掉的修订版本变成僵尸活过来了！"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:104
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:69
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:79
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:80
+msgid "Awe! I'm just go CRAZY!"
+msgstr "啊！我只是疯掉了！"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:105
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:70
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:80
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:81
+msgid "Hi, Stranger! Petrificus Totalus!"
+msgstr "嗨！陌生人！统统石化(Petrificus Totalus)！"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:106
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:71
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:81
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:82
+msgid "Bee...I can't find Neo in the Matrix"
+msgstr "哔…我在Matrix里找不到Neo"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:107
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:72
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:82
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:83
+msgid "Captain! The data been EATEN by Blackhole!"
+msgstr "船长！数据被黑洞吃了！"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:108
+msgid "Oops...No administrator found, so nobody became Neo."
+msgstr "哦……没有找到管理员，所以没人变成Neo"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:111
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:147
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:75
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:77
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:85
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:87
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:86
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:101
+msgid "Revision Cleaner CRAZED!"
+msgstr "修订版本清理器疯掉了！"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:111
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:75
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:85
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:86
+msgid "Version"
+msgstr "版本"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:112
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:76
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:86
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:87
+msgid "crazy_type"
+msgstr "疯狂代码"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:116
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:91
+msgid "You do not have sufficient permissions to deactivate plugins for this site."
+msgstr "You do not have sufficient permissions to deactivate plugins for this site."
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:119
+msgid "Deactivating Revision cleaner....["
+msgstr "停用修订版本清理器中...["
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:133
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:96
+msgid "Completed"
+msgstr "完成"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:136
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:99
+msgid "Failed"
+msgstr "失败"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:140
+msgid "No plugin found"
+msgstr "没有发现插件"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:144
+#, php-format
+msgid "Please copy this message to %s <br/>OR on %s. Sorry for any inconvenience."
+msgstr "请复制这条信息到 %s <br/>或者  %s 。对于此BUG给您造成的不便，作者表示十分抱歉。"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:372
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:282
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:98
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:98
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:292
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:98
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:78
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:307
+msgid "Success!"
+msgstr "保存成功！"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:390
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:292
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:103
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:116
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:124
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:103
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:116
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:124
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:302
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:103
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:116
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:124
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:82
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:88
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:317
+msgid "Save failed"
+msgstr "保存失败"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:397
+#, php-format
+msgid "USER-ID:%s can't be Neo"
+msgstr "USER-ID:%s 不能成为Neo"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:435
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:549
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:651
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:326
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:421
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:469
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:148
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:191
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:148
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:191
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:336
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:431
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:479
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:148
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:191
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:109
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:132
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:351
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:446
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:494
+msgid "Revision Cleaner"
+msgstr "修订版本清理器"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:454
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:341
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:351
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:366
+msgid "Global Settings"
+msgstr "全局设定"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:457
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:344
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:354
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:369
+msgid "Multi-Users"
+msgstr "多用户支持"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:459
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:346
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:356
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:371
+msgid "Allow each user set their own interval"
+msgstr "允许每个用户设置自己的时间间隔"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:464
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:351
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:361
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:376
+#, php-format
+msgid "As Multi-users on, You can set your interval at <a href='%s'>your profile</a>"
+msgstr "已开启多用户支持，您可以在<a href='%s'>个人资料</a>设置您的清理时间间隔"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:467
+msgid "Neo"
+msgstr "Neo"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:478
+msgid "Neo's setting will be treat as Global Setting while Multi-user is off "
+msgstr "当多用户支持关闭时，Neo的设定会成为全局设定 "
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:483
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:356
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:158
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:158
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:366
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:158
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:381
+msgid "Statistic"
+msgstr "统计"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:486
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:498
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:359
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:371
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:161
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:161
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:369
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:381
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:161
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:384
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:396
+msgid "Extant Revision"
+msgstr "现存版本数"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:487
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:360
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:162
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:162
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:370
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:162
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:123
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:385
+msgid "Cleaned Revision"
+msgstr "已清理修订版本"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:491
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:364
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:374
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:389
+msgid "Users Setting Overview"
+msgstr "用户设置总览"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:497
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:370
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:380
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:395
+msgid "Username"
+msgstr "用户名"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:499
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:372
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:382
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:397
+msgid "Interval"
+msgstr "清除时间间隔"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:500
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:373
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:383
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:398
+msgid "Keep draft's"
+msgstr "保存草稿的版本"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:543
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:415
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:185
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:185
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:425
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:185
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:126
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:440
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:652
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:470
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:480
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:495
+msgid "Error:No Javascript support, can't show simple setting"
+msgstr "错误：没有Javascript，无法显示高级选项"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:655
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:672
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:473
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:490
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:153
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:170
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:153
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:170
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:483
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:500
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:153
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:170
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:498
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:515
+msgid "Time Settings"
+msgstr "时间设定"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:655
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:674
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:473
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:492
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:153
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:172
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:153
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:172
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:483
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:502
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:153
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:172
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:113
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:119
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:498
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:517
+msgid "Revisions Last"
+msgstr "修订版本保持"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:656
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:474
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:154
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:154
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:484
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:154
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:114
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:499
+msgid "day"
+msgstr "天"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:657
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:475
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:155
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:155
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:485
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:155
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:115
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:500
+msgid "hour"
+msgstr "小时"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:659
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:477
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:165
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:165
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:487
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:165
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:502
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:675
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:493
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:173
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:173
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:503
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:173
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:120
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:518
+msgid "Seconds"
+msgstr "秒"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:678
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:496
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:176
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:176
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:506
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:176
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:521
+msgid "Misc"
+msgstr "杂项"
+
+#: /home/meng/revision-cleaner/trunk/revision-cleaner.php:679
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:501
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:511
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:526
+msgid "Always keep draft's revisions"
+msgstr "总是保存草稿的修订版本"
+
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:374
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:384
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:399
+msgid "Keep latest"
+msgstr "保存最新的版本"
+
+#: /home/meng/revision-cleaner/tags/2.0/revision-cleaner.php:497
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:177
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:177
+#: /home/meng/revision-cleaner/tags/2.0.1/revision-cleaner.php:507
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:177
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:522
+msgid "Always keep the last revision"
+msgstr "总是保存最新的修订版本"
+
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:150
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:150
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:150
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:113
+msgid "Simple Settings"
+msgstr "简单设定"
+
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:181
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:181
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:181
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:122
+msgid "Clean post author's revision only"
+msgstr "每个作者互不干扰地清除"
+
+#: /home/meng/revision-cleaner/tags/1.1/revision-cleaner.php:206
+#: /home/meng/revision-cleaner/tags/1.2/revision-cleaner.php:206
+#: /home/meng/revision-cleaner/tags/1.0/revision-cleaner.php:206
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:137
+msgid "Wow!Plugin:Revision Cleaner Conflicted with something"
+msgstr "哇！插件：修订版本清理器与某些插件冲突"
+
+#: /home/meng/revision-cleaner/tags/0.1/revision-cleaner.php:117
+msgid "Advanced option"
+msgstr "高级选项"
+
+#: /home/meng/revision-cleaner/tags/2.0.2/revision-cleaner.php:94
+msgid "Deactivating Revision cleaner...."
+msgstr "停用修订版本清理器中..."
+
+#~ msgid "Wow! I'v a brother name like me in here! But I don't like him."
+#~ msgstr "哇！ 在这里有个兄弟和我有一样的名字，可我不喜欢他。"
+
+#~ msgid "Bowwow! Stop! Stranger!"
+#~ msgstr "汪！陌生人站住！"
